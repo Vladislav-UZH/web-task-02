@@ -23,7 +23,6 @@ body {
   display: flex;
   flex: 1;
   justify-content: space-between;
-  padding: 0 20px;
   align-items: center;
 }
 
@@ -41,7 +40,6 @@ body {
   flex-grow: 1;
   height: 500px;
   background-color: white;
-  margin: 0 20px;
   border: 1px solid black;
   display: flex;
   justify-content: center;
